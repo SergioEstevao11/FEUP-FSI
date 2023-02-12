@@ -1,4 +1,4 @@
-# SeedLabs Labs && CTFs logbooks
+# SeedLabs && CTFs logbooks
 
 **Description** - Logbooks documenting the approach to [SeedLabs](https://github.com/seed-labs/seed-labs) and the CTFs done in the curricular unit
 
